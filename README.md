@@ -9,3 +9,6 @@ singleLinkList.php
 
 txt_to_sql.php
 >将txt文件数据整合成sql文件，可以直接用可视化工具执行
+
+csv_to_sql.php
+>将csv中的数据导入数据库，结果heidisql自带这个功能……就当学习了
