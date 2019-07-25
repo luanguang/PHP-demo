@@ -12,3 +12,6 @@ txt_to_sql.php
 
 csv_to_sql.php
 >将csv中的数据导入数据库，结果heidisql自带这个功能……就当学习了
+
+fopen_port.php
+>由于忘记服务器端口，于是循环检索一下，出现SSH-2.0-OpenSSH_7.4就是了
