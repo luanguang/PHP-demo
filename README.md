@@ -15,3 +15,6 @@ csv_to_sql.php
 
 fopen_port.php
 >由于忘记服务器端口，于是循环检索一下，出现SSH-2.0-OpenSSH_7.4就是了
+
+help_js.md
+>一些平常经常会用到，或者解决小问题的js
